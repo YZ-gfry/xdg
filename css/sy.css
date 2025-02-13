@@ -17,7 +17,7 @@ body{
 
 .zm>a{
     font-size:60px;
-    font-family: 华文行楷;
+    font-family: "华文行楷";
 }
 
 .lm{
@@ -29,8 +29,10 @@ body{
 
 .lm>a{
     font-size: 20px;
-    font-family: 华文楷体;
+    font-family: "华文楷体";
     margin-left: 40px;
+    text-decoration: none;
+    color: black;
 }
 
 #ba{
@@ -43,7 +45,7 @@ body{
 }
 
 .aba>a{
-    font-family: 宋体;
+    font-family: "宋体";
     font-weight: bold;
     margin-right: 80px;
 }
@@ -54,7 +56,7 @@ body{
 }
 
 .bba>a{
-    font-family: 宋体;
+    font-family: "宋体";
     font-weight: bold;
     margin-right: 80px;
 }
@@ -70,7 +72,7 @@ body{
     margin-right: 500px;
     float: left;
     font-size: 30px;
-    font-family: 华文行楷;
+    font-family: "华文行楷";
 }
 
 #gg{
@@ -79,7 +81,7 @@ body{
 
 #gg>h1{
     font-size: 30px;
-    font-family: 华文行楷;
+    font-family: "华文行楷";
     text-align: center;
 }
 
@@ -90,7 +92,7 @@ body{
 
 .oc>a{
     font-size: 20px;
-    font-family: 华文楷体;
+    font-family: "华文楷体";
     font-weight: bold;
 }
 
@@ -102,6 +104,12 @@ body{
 
 #bq>h2{
     font-size: 10px;
-    font-family: 宋体;
+    font-family: "宋体";
+    text-align: center;
+}
+
+#bq>h3{
+    font-size: 6px;
+    font-family: "宋体";
     text-align: center;
 }
