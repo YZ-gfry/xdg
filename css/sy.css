@@ -1,40 +1,3 @@
-body{
-    width: 900px;
-    margin: 0 auto;
-}
-
-#tb{
-    height: 78px;
-}
-
-
-.zm{
-    float: left;
-    width: 340px;
-    margin-left:20px ;
-    margin-top: 10px;
-}
-
-.zm>a{
-    font-size:60px;
-    font-family: "华文行楷";
-}
-
-.lm{
-    float: right;
-    width: 520px;
-    margin-right:20px ;
-    margin-top: 50px;
-}
-
-.lm>a{
-    font-size: 20px;
-    font-family: "华文楷体";
-    margin-left: 40px;
-    text-decoration: none;
-    color: black;
-}
-
 #ba{
     height: 50px;
 }
@@ -45,7 +8,6 @@ body{
 }
 
 .aba>a{
-    font-family: "宋体";
     font-weight: bold;
     margin-right: 80px;
 }
@@ -56,14 +18,13 @@ body{
 }
 
 .bba>a{
-    font-family: "宋体";
     font-weight: bold;
     margin-right: 80px;
 }
 
 #zw{
     margin-top: 20px;
-    height: 340px;
+    height: 410px;
 }
 
 #zw>a{
@@ -72,7 +33,6 @@ body{
     margin-right: 500px;
     float: left;
     font-size: 30px;
-    font-family: "华文行楷";
 }
 
 #gg{
@@ -81,7 +41,6 @@ body{
 
 #gg>h1{
     font-size: 30px;
-    font-family: "华文行楷";
     text-align: center;
 }
 
@@ -92,24 +51,5 @@ body{
 
 .oc>a{
     font-size: 20px;
-    font-family: "华文楷体";
     font-weight: bold;
-}
-
-#bq{
-    width: 900px;
-    margin-top: 20px;
-    margin-bottom: 10px;
-}
-
-#bq>h2{
-    font-size: 10px;
-    font-family: "宋体";
-    text-align: center;
-}
-
-#bq>h3{
-    font-size: 6px;
-    font-family: "宋体";
-    text-align: center;
 }

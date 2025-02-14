@@ -1,0 +1,48 @@
+#lm{
+    margin-top: 20px;
+    margin-left: 140px;
+    height: 30px;
+}
+
+#lm>a{
+    font-size: 20px;
+    margin-right: 140px;
+}
+
+table{
+    margin-top: 30px;
+    border: 1px solid black;
+    width: 990px;
+    height: 60px;
+    border-collapse: collapse;
+    background: white;
+    margin-bottom: 20px;
+}
+
+caption{
+    font-size: 30px;
+    font-weight: bold;
+    height: 30px;
+    margin-bottom: 20px;
+}
+
+thead{
+    height: 30px;
+}
+
+tbody{
+    height: 30px;
+}
+
+th{
+    border: 1px solid black;
+    font-size: 20px ;
+}
+
+td{
+    height: 30px;
+    border: 1px solid black;
+    font-size: 20px ;
+    text-align: center;
+    font-weight: bold;
+}
